@@ -1,0 +1,9 @@
+# MacOS trashes
+.DS_Store
+
+# Build
+*.o
+*.map
+*.lst
+*.sym
+*.gb
